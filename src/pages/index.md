@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Festival Offenbach St-Saphorin
-image: /img/home-jumbotron.jpg
+image: /img/festival_offenbach_2022.jpg
 heading: Festival Offenbach St-Saphorin
 subheading: Sous-titre
 mainpitch:
